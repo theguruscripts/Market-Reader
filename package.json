@@ -17,16 +17,10 @@
     "url": "https://github.com/ali-h/smart-curation/issues"
   },
   "homepage": "https://github.com/ali-h/smart-curation#readme",
-  "dependencies": {
-    "@hiveio/hive-js": "^2.0.4",
-    "@splinterlands/hive-interface": "^2.2.2",
-    "axios": "^0.21.1",
+  "dependencies": {   
+    "@splinterlands/hive-interface": "^2.2.4",    
     "colors": "^1.4.0",
-    "fs": "0.0.1-security",
-    "mongodb": "^4.1.0",
-    "mssql": "^7.2.0",
-    "node-schedule": "^2.0.0",
-    "sscjs": "0.0.8",
-    "util": "^0.12.4"
+    "fs": "0.0.1-security",   
+    "sscjs": "0.0.8"    
   }
 }
