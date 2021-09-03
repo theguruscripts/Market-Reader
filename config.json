@@ -1,0 +1,34 @@
+{
+	"symbol" : "SIM",
+	"ssc_api" : "https://api.hive-engine.com/rpc",
+	"json_id" : "ssc-mainnet-hive",
+	"limit" : 1000,
+	"decimal" : 1000,
+	"he_buybook_setting" : {
+		"contract" : "market",
+		"table" : "buyBook"
+	},
+	"he_sellbook_setting" : {
+		"contract" : "market",
+		"table" : "sellBook"
+	},
+	"he_metrics_setting" : {
+		"contract" : "tokens",
+		"table" : "balances"
+	},
+	"rpc_nodes" : [
+		"https://api.deathwing.me",
+		"https://hive.roelandp.nl",
+		"https://api.openhive.network",
+		"https://rpc.ausbit.dev",
+		"https://hived.emre.sh",
+		"https://hive-api.arcange.eu",
+		"https://api.hive.blog",
+		"https://api.c0ff33a.uk",
+		"https://rpc.ecency.com",
+		"https://anyx.io",
+		"https://techcoderx.com",
+		"https://hived.privex.io",
+		"https://api.followbtcnews.com/"
+	]
+}

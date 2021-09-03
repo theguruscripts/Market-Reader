@@ -1,0 +1,32 @@
+{
+  "name": "smart-curation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali-h/smart-curation.git"
+  },
+  "author": "Ali H",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ali-h/smart-curation/issues"
+  },
+  "homepage": "https://github.com/ali-h/smart-curation#readme",
+  "dependencies": {
+    "@hiveio/hive-js": "^2.0.4",
+    "@splinterlands/hive-interface": "^2.2.2",
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "fs": "0.0.1-security",
+    "mongodb": "^4.1.0",
+    "mssql": "^7.2.0",
+    "node-schedule": "^2.0.0",
+    "sscjs": "0.0.8",
+    "util": "^0.12.4"
+  }
+}
