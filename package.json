@@ -1,5 +1,5 @@
-{
-  "name": "smart-curation",
+a{
+  "name": "market-reader",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ali-h/smart-curation.git"
+    "url": "git+https://github.com/theguruscripts/market-reader.git"
   },
-  "author": "Ali H",
+  "author": "TheGuruAsia",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/ali-h/smart-curation/issues"
+    "url": "https://github.com/theguruscripts/market-reader/issues"
   },
-  "homepage": "https://github.com/ali-h/smart-curation#readme",
+  "homepage": "https://github.com/theguruscripts/market-reader#readme",
   "dependencies": {   
     "@splinterlands/hive-interface": "^2.2.4",    
     "colors": "^1.4.0",
